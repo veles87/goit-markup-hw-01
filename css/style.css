@@ -54,7 +54,8 @@ p {
   top: 32px;
   color: #0d0d0e;
 }
-.saite-nav:hover {
+.saite-nav:hover,
+.saite-nav:focus {
   color: #f32f21;
 }
 .portfolio {
